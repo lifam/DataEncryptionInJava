@@ -6,8 +6,12 @@ There are 4 Eclipse project listed bellow:
 - myRSA--Including the RSA algorithm implemented in my way
 - mySHA--Including the SHA-512 algorithm implementation
 
+------------------------------
+
 All those 4 projects are actually the homework of the course 'Cryptography and Network Security' that I took in Junior, Undergraduate.
 
 And the algorithms that I implemented in Java are all based on those described in <Cryptography and Network Security>--Principles and Practice, 5th Edition, authored by William Stallings.
+
+---------------------------
 
 You are free and welcomed to use the softwares I built and the code I wrote. And if you have any questions, just let me know and I will try my best to answer you questions. Here is my email address: 1825899616@qq.com.
